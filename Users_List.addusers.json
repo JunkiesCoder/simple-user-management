@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "656ed079005b4d86aae26b11"
+  },
+  "userId": {
+    "$oid": "656ea650552ebaaaf97ef701"
+  },
+  "users": [
+    {
+      "name": "Amal",
+      "email": "amal@gmail.com",
+      "_id": {
+        "$oid": "656f07c6946ca7e6bea82fe6"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ef468d381a0700dbbddf5"
+  },
+  "userId": {
+    "$oid": "656ef26246f7b6716be3203b"
+  },
+  "users": [
+    {
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "_id": {
+        "$oid": "656ef468d381a0700dbbddf6"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f390a8f87a77cf870dfcc"
+  },
+  "userId": {
+    "$oid": "656f38f88f87a77cf870dfc6"
+  },
+  "users": [
+    {
+      "name": "Soman",
+      "email": "soman@gmail.com",
+      "_id": {
+        "$oid": "656f390a8f87a77cf870dfcd"
+      }
+    },
+    {
+      "name": "Sooraj",
+      "email": "soorajkumar@gmail.com",
+      "_id": {
+        "$oid": "656f39228f87a77cf870dfde"
+      }
+    },
+    {
+      "name": "Bibin A",
+      "email": "bibin@gmail.com",
+      "_id": {
+        "$oid": "656f392f8f87a77cf870dfeb"
+      }
+    }
+  ],
+  "__v": 0
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "656ea650552ebaaaf97ef701"
+  },
+  "name": "Bibin A",
+  "email": "bibin@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ef26246f7b6716be3203b"
+  },
+  "name": "Faseen",
+  "email": "faseen@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ef2b5205fb676abe0782d"
+  },
+  "name": "Vishnu",
+  "email": "vishnu@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f28f7315a46554830d404"
+  },
+  "name": "Bibin A",
+  "email": "bibi@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f38f88f87a77cf870dfc6"
+  },
+  "name": "Ajay",
+  "email": "ajay@gmail.com",
+  "__v": 0
+}]
